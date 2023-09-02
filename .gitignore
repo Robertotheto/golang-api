@@ -1,1 +1,8 @@
 .idea
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+db/
